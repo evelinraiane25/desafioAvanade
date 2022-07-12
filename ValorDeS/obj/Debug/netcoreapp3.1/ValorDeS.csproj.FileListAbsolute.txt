@@ -1,0 +1,14 @@
+C:\git\DesafioAvanade\ValorDeS\bin\Debug\netcoreapp3.1\ValorDeS.exe
+C:\git\DesafioAvanade\ValorDeS\bin\Debug\netcoreapp3.1\ValorDeS.deps.json
+C:\git\DesafioAvanade\ValorDeS\bin\Debug\netcoreapp3.1\ValorDeS.runtimeconfig.json
+C:\git\DesafioAvanade\ValorDeS\bin\Debug\netcoreapp3.1\ValorDeS.runtimeconfig.dev.json
+C:\git\DesafioAvanade\ValorDeS\bin\Debug\netcoreapp3.1\ValorDeS.dll
+C:\git\DesafioAvanade\ValorDeS\bin\Debug\netcoreapp3.1\ValorDeS.pdb
+C:\git\DesafioAvanade\ValorDeS\obj\Debug\netcoreapp3.1\ValorDeS.csproj.AssemblyReference.cache
+C:\git\DesafioAvanade\ValorDeS\obj\Debug\netcoreapp3.1\ValorDeS.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\DesafioAvanade\ValorDeS\obj\Debug\netcoreapp3.1\ValorDeS.AssemblyInfoInputs.cache
+C:\git\DesafioAvanade\ValorDeS\obj\Debug\netcoreapp3.1\ValorDeS.AssemblyInfo.cs
+C:\git\DesafioAvanade\ValorDeS\obj\Debug\netcoreapp3.1\ValorDeS.csproj.CoreCompileInputs.cache
+C:\git\DesafioAvanade\ValorDeS\obj\Debug\netcoreapp3.1\ValorDeS.dll
+C:\git\DesafioAvanade\ValorDeS\obj\Debug\netcoreapp3.1\ValorDeS.pdb
+C:\git\DesafioAvanade\ValorDeS\obj\Debug\netcoreapp3.1\ValorDeS.genruntimeconfig.cache

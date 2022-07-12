@@ -1,0 +1,14 @@
+C:\git\DesafioAvanade\FusoHorário\obj\Debug\netcoreapp3.1\FusoHorário.csproj.AssemblyReference.cache
+C:\git\DesafioAvanade\FusoHorário\obj\Debug\netcoreapp3.1\FusoHorário.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\DesafioAvanade\FusoHorário\obj\Debug\netcoreapp3.1\FusoHorário.AssemblyInfoInputs.cache
+C:\git\DesafioAvanade\FusoHorário\obj\Debug\netcoreapp3.1\FusoHorário.AssemblyInfo.cs
+C:\git\DesafioAvanade\FusoHorário\obj\Debug\netcoreapp3.1\FusoHorário.csproj.CoreCompileInputs.cache
+C:\git\DesafioAvanade\FusoHorário\bin\Debug\netcoreapp3.1\FusoHorário.exe
+C:\git\DesafioAvanade\FusoHorário\bin\Debug\netcoreapp3.1\FusoHorário.deps.json
+C:\git\DesafioAvanade\FusoHorário\bin\Debug\netcoreapp3.1\FusoHorário.runtimeconfig.json
+C:\git\DesafioAvanade\FusoHorário\bin\Debug\netcoreapp3.1\FusoHorário.runtimeconfig.dev.json
+C:\git\DesafioAvanade\FusoHorário\bin\Debug\netcoreapp3.1\FusoHorário.dll
+C:\git\DesafioAvanade\FusoHorário\bin\Debug\netcoreapp3.1\FusoHorário.pdb
+C:\git\DesafioAvanade\FusoHorário\obj\Debug\netcoreapp3.1\FusoHorário.dll
+C:\git\DesafioAvanade\FusoHorário\obj\Debug\netcoreapp3.1\FusoHorário.pdb
+C:\git\DesafioAvanade\FusoHorário\obj\Debug\netcoreapp3.1\FusoHorário.genruntimeconfig.cache
